@@ -1,1 +1,1 @@
-# Automate Infrastructure With IaC using Terraform Part 1
+# Automate Infrastructure With IaC using Terraform 
